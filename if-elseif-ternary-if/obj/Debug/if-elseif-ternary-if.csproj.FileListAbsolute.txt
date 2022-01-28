@@ -1,0 +1,8 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\if-elseif-ternary-if\if-elseif-ternary-if\obj\Debug\if-elseif-ternary-if.csproj.AssemblyReference.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\if-elseif-ternary-if\if-elseif-ternary-if\obj\Debug\if-elseif-ternary-if.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\if-elseif-ternary-if\if-elseif-ternary-if\obj\Debug\if-elseif-ternary-if.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\if-elseif-ternary-if\if-elseif-ternary-if\bin\Debug\if-elseif-ternary-if.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\if-elseif-ternary-if\if-elseif-ternary-if\bin\Debug\if-elseif-ternary-if.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\if-elseif-ternary-if\if-elseif-ternary-if\bin\Debug\if-elseif-ternary-if.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\if-elseif-ternary-if\if-elseif-ternary-if\obj\Debug\if-elseif-ternary-if.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\if-elseif-ternary-if\if-elseif-ternary-if\obj\Debug\if-elseif-ternary-if.pdb
